@@ -1,0 +1,20 @@
+
+.form-one{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+label{
+  display: flex;
+  align-items: flex-start  
+}
+.ingredients{
+  margin: 15px;
+}
+.ingredient{
+  background-color: aquamarine;
+  display: inline;
+  border-radius: 45px;
+  padding: 10px;
+  letter-spacing: 3px;
+}
